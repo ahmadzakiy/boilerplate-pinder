@@ -1,0 +1,21 @@
+{
+  "name": "pindernew",
+  "version": "1.0.0",
+  "description": "platform untuk menemukan rekomendasi dan berbagi pengalaman menggunakan produk",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pinder Team",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-connect-php": "0.0.8"
+  }
+}
